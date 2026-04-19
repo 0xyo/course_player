@@ -42,6 +42,8 @@ npm run preview
 
 ### Using the Standalone Player
 
+⚠️ **Known Issues**: The standalone player has some bugs. It's recommended to use the web version instead.
+
 For offline use without npm:
 1. Navigate to your course folder
 2. Double-click `public/player.bat`
